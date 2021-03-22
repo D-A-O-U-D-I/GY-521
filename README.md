@@ -1,2 +1,2 @@
 # GY-521
-Beschleunigungssensor im Rahmen der BA
+Beschleunigungssensor für Ein-und Ausschaltautomatik
